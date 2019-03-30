@@ -78,7 +78,7 @@ Carla is the name of a Udacity self-driving car, whose computer would run studen
 
 From structure perspective, Carla has four subsystem as illustrated below: sensors, perception, planning, and control. The data flow direction is from left to right, with each subsystem's output taken as input for various components of the next subsystem.
 
-[Carla Subsystem Structure](imgs/Carla_subsystems_structure.png "Subsystems")
+<img src="imgs/Carla_subsystems_structure.PNG" width=600>
 
 Carla's Sensors subsystem consists of physical hardware that gathers data about the environment, in the form of camera, radar and lidar, and sometimes other types of sensors too. Cameras are mounted behind the rear view mirror in a row, a single radar is embedded in the front bumper, and a lidar is mounted on the roof. 
 
